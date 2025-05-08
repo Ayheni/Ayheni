@@ -7,30 +7,17 @@
 
 ## 🧑‍💻 About Me
 
-- 🎓 I'm a [Full Satack Developer] based in [Cairo Egypt]
-- 🛠️ I work mainly with: `PHP`, `Laravel`, `vue.js`, `Node.js` (edit based on your stack)
-- 📚 Currently learning: `` | `Next.js` | ``
+- 💻 I'm a Full Satack Developer based in Cairo Egypt
+- 🌐 I have a strong passion for web development and enjoy creating dynamic and responsive web applications.
 - 🌱 I enjoy building web apps, automating things, and working on open-source projects
+- 🎓 Education: Currently studying cyper Security to complement my technical skills and enhance my career opportunities.
 
 ---
 
 ## 💻 Tech Stack:
 
--
-
----
-
-## 🚀 Projects
-
-Here are a few highlights from my work:
-
-| Project | Description | Technologies |
-|--------|-------------|--------------|
-| [Weather App](https://github.com/yourusername/weather-app) | A responsive weather forecast app using OpenWeather API | HTML, CSS, JS |
-| [To-Do API](https://github.com/yourusername/todo-api) | A simple RESTful API for managing to-do items | Node.js, Express, MongoDB |
-| [Portfolio Website](https://github.com/yourusername/portfolio-site) | My personal site to showcase my projects and resume | React, TailwindCSS |
-
-🔗 **See all my work:** [github.com/Ayheni](https://github.com/Ayheni)
+- 🛠️ I work mainly with: PHP, Laravel, SQL. JavaSvript, vue.js, HTML & CSS 
+- 📚 Currently learning: Next.js  
 
 ---
 
